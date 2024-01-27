@@ -26,10 +26,10 @@ WeatherApp is a web application that provides real-time weather information, int
 Enter a city name in the search bar and click the search button to get weather information.
 Additional buttons for cat facts and dog images are available for extra fun!
 
-#### APIs Used
-OpenWeatherAPI: OpenWeatherMap API Documentation
-Cat Facts API: Cat Facts API Documentation
-Dog API: Dog API Documentation
+### APIs Used
+- OpenWeatherAPI: OpenWeatherMap API Documentation
+- Cat Facts API: Cat Facts API Documentation
+- Dog API: Dog API Documentation
 
 ### Project Structure
 app.js: Main application logic
