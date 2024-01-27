@@ -11,11 +11,6 @@ WeatherApp is a web application that provides real-time weather information, int
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js installed on your machine
-- OpenWeatherAPI key (replace `YOUR_OPENWEATHER_API_KEY` in `core.js`)
-
 ### Step by step
 
 1. Install dependencies npm install
